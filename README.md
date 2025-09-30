@@ -139,16 +139,16 @@ npm install
 npm run dev
 
 
- 👩‍💻 Developer
 
-Iqra Majeed
-Passionate about Python development and desktop applications.
-This tool was built quickly as part of a university assignment, yet with full functionality and design awareness.
-💻 Full Stack Developer | Passionate about Python & React.js
-📧 Gmail: [[iqra37277@gmail.com](mailto:your-email@gmail.com)]
-💼 LinkedIn: [http://linkedin.com/in/iqra-malik-5a221a2b9/]
-📂 GitHub: [https://github.com/IqraMajeed-Dev/]
+👩‍💻 Developer
 
+**Iqra Majeed**  
+💻 Full Stack Developer | Passionate about Python & React.js  
+📧 Email: [iqra37277@gmail.com](mailto:iqra37277@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/iqra-malik-5a221a2b9](http://linkedin.com/in/iqra-malik-5a221a2b9/)  
+📂 GitHub: [IqraMajeed-Dev/Ziksha-style](https://github.com/IqraMajeed-Dev/Ziksha-style)  
+
+> ⚡ This project was built as part of a university assignment with full functionality and design awareness.
 
 
 
