@@ -1,10 +1,10 @@
 
-# 🛍️ ZIQSHA Styles – React.js Frontend
+ 🛍️ ZIQSHA Styles – React.js Frontend
 
 An **e-commerce web application** for women’s fashion, developed using **React.js**.
 This project is part of the **ZIQSHA Styles brand**  providing a modern and seamless online shopping experience.
 
-## 🚀 Features
+ 🚀 Features
 
 * 👩‍💻 **User Features**
 
@@ -138,13 +138,18 @@ npm install
 # Start development server
 npm run dev
 
-## 👩‍💻 Developer
 
-**Iqra Majeed**
+ 👩‍💻 Developer
+
+Iqra Majeed
+Passionate about Python development and desktop applications.
+This tool was built quickly as part of a university assignment, yet with full functionality and design awareness.
 💻 Full Stack Developer | Passionate about Python & React.js
 📧 Gmail: [[iqra37277@gmail.com](mailto:your-email@gmail.com)]
 💼 LinkedIn: [http://linkedin.com/in/iqra-malik-5a221a2b9/]
 📂 GitHub: [https://github.com/IqraMajeed-Dev/]
+
+
 
 
 
