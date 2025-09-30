@@ -117,7 +117,7 @@ This project is part of the **ZIQSHA Styles brand**  providing a modern and seam
 
 * 🏠 **Home Page**
 * 📦 **Product Listing**
-LOgin page
+* Login Page
 
 ---
 
