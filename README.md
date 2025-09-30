@@ -107,15 +107,16 @@ This project is part of the **ZIQSHA Styles brand**  providing a modern and seam
 ## 📸 Screenshots
 
 <img width="405" height="352" alt="login img" src="https://github.com/user-attachments/assets/7e71bfc1-20a0-4174-a663-b75f9ef36e61" />
+<img width="794" height="408" alt="output img" src="https://github.com/user-attachments/assets/f8da8c61-9722-417d-bb5b-e1d9bb8d0c7c" />
+<img width="794" height="408" alt="output img" src="https://github.com/user-attachments/assets/8c49a1cf-4437-4034-b8a1-0720064d0b5a" />
+
 
 
 
 
 * 🏠 **Home Page**
 * 📦 **Product Listing**
-* 🛒 **Cart Page**
-* 💳 **Checkout Page**
-* 📊 **Admin Dashboard**
+LOgin page
 
 ---
 
@@ -135,27 +136,19 @@ npm install
 
 # Start development server
 npm run dev
-```
-
-Project will run on 👉 [http://localhost:5174](http://localhost:5174)
-
----
-
-
 
 ## 👩‍💻 Developer
 
 **Iqra Majeed**
 💻 Full Stack Developer | Passionate about Python & React.js
-📧 Gmail: [[your-email@gmail.com](mailto:your-email@gmail.com)]
-💼 LinkedIn: [your-linkedin-link]
-📂 GitHub: [your-github-link]
+📧 Gmail: [[iqra37277@gmail.com](mailto:your-email@gmail.com)]
+💼 LinkedIn: [http://linkedin.com/in/iqra-malik-5a221a2b9/]
+📂 GitHub: [https://github.com/IqraMajeed-Dev/]
 
 
 
 
-✨ **Summary:**
-The **ZIQSHA Styles React.js frontend** is a complete, scalable, and modern e-commerce application showcasing expertise in **React.js, UI/UX design, and state management** — making it a strong portfolio project.
+
 
 
 
