@@ -107,9 +107,9 @@ This project is part of the **ZIQSHA Styles brand**  providing a modern and seam
 ## 📸 Screenshots
 
 
-<img width="405" height="352" alt="login img" src="https://github.com/user-attachments/assets/7e71bfc1-20a0-4174-a663-b75f9ef36e61" /> 
-<img width="405" height="352" alt="output img" src="https://github.com/user-attachments/assets/f8da8c61-9722-417d-bb5b-e1d9bb8d0c7c" /> 
-<img width="405" height="296" alt="products img" src="https://github.com/user-attachments/assets/0acb35c2-f9ff-40eb-8984-72b31a86ea5b" />
+<img width="50" height="100" alt="login img" src="https://github.com/user-attachments/assets/7e71bfc1-20a0-4174-a663-b75f9ef36e61" /> 
+<img width="50" height="100" alt="output img" src="https://github.com/user-attachments/assets/f8da8c61-9722-417d-bb5b-e1d9bb8d0c7c" /> 
+<img width="50" height="100" alt="products img" src="https://github.com/user-attachments/assets/0acb35c2-f9ff-40eb-8984-72b31a86ea5b" />
 
 
 
