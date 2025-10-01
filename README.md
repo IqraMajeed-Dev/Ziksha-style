@@ -106,9 +106,17 @@ This project is part of the **ZIQSHA Styles brand**  providing a modern and seam
 
 ## 📸 Screenshots
 
-<img src="login.png" alt="login img" width="400" height="300">
-<img src="output.png" alt="output img" width="400" height="300">
-<img src="products.png" alt="products img" width="400" height="300">
+<style>
+  .same-size {
+    width: 400px;
+    height: 300px;
+    object-fit: cover; /* image ko crop/fill karega */
+  }
+</style>
+
+<img src="login.png" alt="login img" class="same-size">
+<img src="output.png" alt="output img" class="same-size">
+<img src="products.png" alt="products img" class="same-size">
 
 
 
